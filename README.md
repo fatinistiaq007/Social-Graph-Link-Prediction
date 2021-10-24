@@ -1,5 +1,5 @@
 # Social-Graph-Link-Prediction
-Problem statement:
+## Problem statement:
 Given a directed social graph, we have to predict missing links to recommend friends/connnections/followers (Link Prediction in graph).
 
 Data Overview
